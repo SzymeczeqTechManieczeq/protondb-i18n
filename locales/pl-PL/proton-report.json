@@ -19,7 +19,7 @@
         "short": "Trzeszczy"
       },
       "lowQuality": {
-        "long": "Zauważalne zmniejszenie jakości",
+        "long": "Bardzo niskiej jakości",
         "short": "Niskiej jakości"
       },
       "missing": {
@@ -95,23 +95,23 @@
         "short": "poniżej godziny"
       },
       "lessThanFifteenMinutes": {
-        "long": "poniżej 15 minut",
-        "short": "poniżej 15 minut"
+        "long": "mniej 15 minut",
+        "short": "mniej 15 minut"
       },
       "moreThanTenHours": {
-        "long": "ponad 10 godzin",
-        "short": "ponad 10 godzin"
+        "long": "więcej niż 10 godzin",
+        "short": "więcej niż 10 godzin"
       },
       "severalHours": {
-        "long": "ponad 2 godziny",
-        "short": "ponad 2 godziny"
+        "long": "klika godzin",
+        "short": "kilka godzin"
       }
     },
     "prompt": "Jak długo grałeś?"
   },
   "extra": {
     "additionalNotes": {
-      "label": "Dodatkowe notki",
+      "label": "Dodatkowe notatki",
       "placeholder": "Prosimy, dodaj je tutaj."
     },
     "prompt": "Czy jest jeszcze coś, co chciałbyś przekazać, co nie zostało uwzględnione w poprzednich pytaniach?"
@@ -150,7 +150,7 @@
         "short": "OpenGL"
       },
       "unsure": {
-        "long": "Cokolwiek jest używane domyślnie",
+        "long": "używane domyślnie",
         "short": "Domyślne"
       },
       "vk": {
@@ -165,31 +165,31 @@
     "options": {
       "bounding": {
         "long": "Granice były niepoprawne",
-        "short": "Granice"
+        "short": "Niepoprawne granice"
       },
       "controllerMapping": {
-        "long": "Kontroler nie był zmapowany poprawnie",
-        "short": "Mapowanie kontrolerów"
+        "long": "Mapowanie kontrolera/ów było nie poprawne.",
+        "short": "Kontroler nie był zmapowany poprawnie"
       },
       "controllerNotDetected": {
         "long": "Kontroler nie został wykryty",
-        "short": "Detekcja kontrolerów"
+        "short": "Kontroler nie był wykryty"
       },
       "controllerNotResponsive": {
-        "long": "Kontroler został wykryty, ale nie był responsywny",
-        "short": "Responsywność"
+        "long": "Kontroler został wykryty, ale nie działał",
+        "short": "Kontroler został wykryty, ale nie działał"
       },
       "drifting": {
         "long": "Osie driftowały",
-        "short": "Drifting"
+        "short": "Osie driftowały"
       },
       "inaccuracy": {
         "long": "Precyzja była niższa",
-        "short": "Precyzja"
+        "short": "Precyzja była niższa"
       },
       "lag": {
         "long": "Występowały opóźnienia w sterowaniu",
-        "short": "Lagi"
+        "short": "Lagi w sterowaniu"
       },
       "other": {
         "long": "Inne",
@@ -218,7 +218,7 @@
         "short": "Inny"
       }
     },
-    "prompt": "Czy oprogramowanie typu anti-cheat wpływa na grę?"
+    "prompt": "Czy anti-cheat wpływa na grę?"
   },
   "isMultiplayerImportant": {
     "prompt": "Czy gra wieloosobowa jest kluczowym elementem tej gry?"
@@ -315,11 +315,11 @@
       },
       "good": {
         "long": "Dobra. Posiadająca rzadko występujące problemy, ale ogólnie grywalna.",
-        "short": "Dobra"
+        "short": "Dobra i Grywalna"
       },
       "weak": {
-        "long": "Zła. Posiadająca problemy znacząco wpływające na doświadczenie.",
-        "short": "Zła"
+        "long": "Przeciętna. Posiadająca problemy znacząco wpływające na doświadczenie.",
+        "short": "Przeciętna"
       }
     }
   },
