@@ -5,9 +5,9 @@
   "breakdown": {
     "headline": "Popularne gry",
     "popularHeadline": "Oceny {{count}} najpopularniejszych gier",
-    "topHundred": "Górne 100",
-    "topTen": "Górne 10",
-    "topThousand": "Górne 1000",
+    "topHundred": "Najlepsze 100",
+    "topTen": "Najlepsza 10",
+    "topThousand": "Najlepszy 1000",
     "topics": {
       "allGames": "Wszystkie gry",
       "indie": "Gry niezależne",
@@ -53,7 +53,7 @@
     }
   },
   "gameDetails": {
-    "githubIssueSearch": "Problemy na Githubie",
+    "githubIssueSearch": "Problemy z Githubem",
     "infoNotFound": "Nie udało się pobrać informacji dla App ID: {{entry}}. To może mieć miejsce gdy gra zostanie usunięta ze sklepu.",
     "minimumRequirements": "Minimalne wymagania",
     "nativelySupports": "Natywnie wspiera"
@@ -61,7 +61,7 @@
   "home": {
     "headline": "Dzięki Protonowi oraz Steam Play, wiele windowsowych gier działa teraz na Linuxie!",
     "howDoIHelp": {
-      "answer": "Daj Linuxowi szansę! Nie przejmuj się, jeśli jesteś nowy - oto lista poradników które pomogą ci zacząć. A jeśli chcesz pomóc Valve i Protonowi się rozwijać, dołóż swoją cegiełkę dodając własne raporty na ProtonDB!",
+      "answer": "Daj Linuxowi szansę! Nie przejmuj się, jeśli jesteś nowy - oto poradniki które pomogą ci zacząć. A jeśli chcesz pomóc Valve i Protonowi się rozwijać, dołóż swoją cegiełkę dodając własne raporty na ProtonDB!",
       "question": "Świetnie! Jak mogę pomóc?"
     },
     "letsGetStarted": "Zacznijmy więc.",
@@ -109,9 +109,9 @@
     "headline": "Definicje wskaźników"
   },
   "specs": {
-    "cpu": "CPU",
-    "gpu": "GPU",
-    "gpuDriver": "Sterowniki GPU",
+    "cpu": "Procesor",
+    "gpu": "Karta Graficzna",
+    "gpuDriver": "Sterowniki Karty Graficznej",
     "kernel": "Kernel",
     "os": "Dystrybucja",
     "otherSpecs": "Pozostała specyfikacja",
